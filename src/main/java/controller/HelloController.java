@@ -20,4 +20,8 @@ public class HelloController {
 		return "hello nuc-a";
 	}
 	
+	public void hi(){
+		System.out.println("hi, haha!");
+	}
+	
 }
